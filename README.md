@@ -33,7 +33,8 @@ Access this page via: [url]
 
 
 ### 10-K
-A 10-K is a comprehensive report filed annually by a publicly-traded company about its financial performance and is required by the U.S. Securities and Exchange Commission (SEC). 
+A 10-K is a comprehensive report filed annually by a publicly-traded company about its financial performance and is required by the 
+[U.S. Securities and Exchange Commission (SEC)](securities-and-exchange-commission-sec). 
 The report contains much more detail than a company's annual report, which is sent to its shareholders before an annual meeting to elect company directors.
 
 
