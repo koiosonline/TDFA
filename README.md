@@ -1,7 +1,8 @@
-# trading
-Trading minor
+# Trading minor glossary
+Access this page via: https://koiosonline.github.io/trading/
 
-- [trading](#trading)
+
+- [Trading minor glossary](#trading-minor-glossary)
   - [0](#0)
   - [A](#a)
   - [B](#b)
@@ -11,7 +12,55 @@ Trading minor
   - [F](#f)
   - [G](#g)
   - [H](#h)
+  - [I](#i)
+  - [J](#j)
+  - [K](#k)
+  - [L](#l)
+  - [M](#m)
+  - [N](#n)
+  - [O](#o)
+  - [P](#p)
+  - [Q](#q)
+  - [R](#r)
+  - [S](#s)
+  - [T](#t)
+  - [U](#u)
+  - [V](#v)
+  - [W](#w)
+  - [X](#x)
+  - [Y](#y)
+  - [Z](#z)
 
+
+|[0](#0) | [A](#a) | [B](#b)
+
+
+
+
+  - [C](#c)
+  - [D](#d)
+  - [E](#e)
+  - [F](#f)
+  - [G](#g)
+  - [H](#h)
+  - [I](#i)
+  - [J](#j)
+  - [K](#k)
+  - [L](#l)
+  - [M](#m)
+  - [N](#n)
+  - [O](#o)
+  - [P](#p)
+  - [Q](#q)
+  - [R](#r)
+  - [S](#s)
+  - [T](#t)
+  - [U](#u)
+  - [V](#v)
+  - [W](#w)
+  - [X](#x)
+  - [Y](#y)
+  - [Z](#z)
 
 
 
@@ -249,7 +298,7 @@ Hurdle Rate
 Hyperinflation
 Hypothesis Testing
 See complete list of H terms
-I
+## I
 Income
 Income Statement
 Indemnity
@@ -275,7 +324,7 @@ Inverted Yield Curve
 Invisible Hand
 Irrevocable Trust
 See complete list of I terms
-J
+## J
 J-Curve
 January Effect
 Japanese Government Bond (JGB)
@@ -301,7 +350,7 @@ Jurisdiction Risk
 Just In Case (JIC)
 Just In Time (JIT)
 See complete list of J terms
-K
+## K
 Kaizen
 Karl Marx
 Keltner Channel
@@ -327,7 +376,7 @@ Kurtosis
 Kuwaiti Dinar (KWD)
 The Kyoto Protocol
 See complete list of K terms
-L
+## L
 Laissez-Faire
 Law of Demand
 Law of Supply
@@ -353,7 +402,7 @@ Loan-To-Value Ratio (LTV)
 London Inter-Bank Offered Rate (LIBOR)
 Ltd. (Limited)
 See complete list of L terms
-M
+## M
 Macroeconomics
 Magna Cum Laude
 Management by Objectives (MBO)
@@ -379,7 +428,7 @@ Multilevel Marketing
 Mutual Fund
 Mutually Exclusive
 See complete list of M terms
-N
+## N
 Nasdaq
 Nash Equilibrium
 Negative Correlation
@@ -405,7 +454,7 @@ Notional Value
 Novation
 Null Hypothesis
 See complete list of N terms
-O
+## O
 Offset
 Old Age, Survivors, and Disability Insurance (OASDI)
 Oligopoly
@@ -431,7 +480,7 @@ Overdraft
 Overhead
 Overnight Index Swap
 See complete list of O terms
-P
+## P
 P-Value
 Partnership
 Penny Stocks Trade
@@ -457,7 +506,7 @@ Prospectus
 Public Limited Company (PLC)
 Put Option
 See complete list of P terms
-Q
+## Q
 Q Ratio (Tobin's Q)
 Quadruple Witching
 Qualified Dividend
@@ -483,7 +532,7 @@ Quick Ratio
 Quintiles
 Quota
 See complete list of Q terms
-R
+## R
 R-Squared
 Racketeering
 Rate of Return
@@ -509,7 +558,7 @@ Roth IRA
 Rule of 72
 Russell 2000 Index
 See complete list of R terms
-S
+## S
 S&P 500 Index (Standard & Poor's 500 Index)
 Sarbanes-Oxley (SOX) Act of 2002
 Securities and Exchange Commission (SEC)
@@ -535,7 +584,7 @@ Supply Chain
 Sustainability
 Systematic Sampling
 See complete list of S terms
-T
+## T
 T-Test
 Tariff
 Technical Analysis
@@ -561,7 +610,7 @@ Trustee
 TSA PreCheck
 Turnover
 See complete list of T terms
-U
+## U
 Underlying Asset
 Underwriter
 Underwriting
@@ -587,7 +636,7 @@ U.S. Savings Bonds
 Utilities Sector
 Utility
 See complete list of U terms
-V
+## V
 Valuation
 Value Added
 Value Chain
@@ -613,7 +662,7 @@ Volcker Rule
 Volume Weighted Average Price (VWAP)
 Voluntary Employees Beneficiary Association Plan (VEBA)
 See complete list of V terms
-W
+## W
 W-2 Form
 W-4 Form
 W-8 Form
@@ -639,7 +688,7 @@ Works-in-Progress (WIP)
 World Trade Organization (WTO)
 WorldCom
 See complete list of W terms
-X
+## X
 X-Efficiency
 X-Mark Signature
 XBRL (eXtensible Business Reporting Language)
@@ -650,7 +699,7 @@ Xetra
 XML (Extensible Markup Language)
 XRT
 See complete list of X terms
-Y
+## Y
 Yacht Insurance
 Yale School of Management
 Yankee Bond
@@ -676,7 +725,7 @@ Yield Variance
 York Antwerp Rules
 Yuppie
 See complete list of Y terms
-Z
+## Z
 Z-Score
 Z-Test
 Zacks Investment Research
