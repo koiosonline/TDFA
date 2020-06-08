@@ -56,7 +56,9 @@ The report contains much more detail than a company's [annual report](#annual-re
 83(b) Election
 See complete list of # terms
 ## A
-Absolute Advantage
+
+##### Absolute Advantage
+
 Accounting Equation
 Accounting Rate of Return (ARR)
 Acid-Test Ratio
@@ -69,7 +71,8 @@ American Depositary Receipt (ADR)
 American Dream
 Analysis of Variance (ANOVA)
 Angel Investor
-Annual Percentage Rate (APR)
+
+##### Annual Percentage Rate (APR)
 
 ##### Annual Report
 An annual report is a publication that public corporations must provide annually to shareholders to describe their operations and financial conditions. 
@@ -78,8 +81,9 @@ and an accompanying narrative, all of which chronicle the company's activities o
 The back part of the report contains detailed financial and operational information.
 
 
-Annuity
-Applicable Federal Rate (AFR)
+##### Annuity
+
+##### Applicable Federal Rate (AFR)
 Artificial Intelligence (AI)
 Asset
 Asset Management
@@ -533,7 +537,8 @@ Russell 2000 Index
 See complete list of R terms
 ## S
 S&P 500 Index (Standard & Poor's 500 Index)
-Sarbanes-Oxley (SOX) Act of 2002
+
+##### Sarbanes-Oxley (SOX) Act of 2002
 
 ### Securities and Exchange Commission (SEC)
 The U.S. Securities and Exchange Commission (SEC) is an independent federal government regulatory agency responsible for protecting investors, 
@@ -543,8 +548,9 @@ The SEC promotes full public disclosure, protects investors against fraudulent a
 and monitors corporate takeover actions in the United States. It also approves registration statements for bookrunners among underwriting firms.
 
 
-Security
-Series 63
+##### Security
+
+##### Series 63
 Series 7
 Sharpe Ratio
 Short Selling
