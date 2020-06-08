@@ -1,5 +1,6 @@
 # Trading minor glossary
 Access this page via: [url]
+
 [url]: https://koiosonline.github.io/trading]
 
 |[0](#0)|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)
@@ -10,7 +11,7 @@ Access this page via: [url]
 ## 0
 1%/10 Net 30
 
-#### 1%/10 Net 30? 
+##### 1%/10 Net 30? 
 
  The 1%/10 net 30 calculation is a way of providing cash discounts on purchases. 
  It means that if the bill is paid within 10 days, there is a 1% discount. 
@@ -23,17 +24,21 @@ A 10-K is a comprehensive report filed annually by a publicly-traded company abo
 The report contains much more detail than a company's annual report, which is sent to its shareholders before an annual meeting to elect company directors.
 
 
+##### 10-Q SEC Form
 
+##### 10-Year Treasury Note
 
+##### 1040 IRS Form
 
-10-Q SEC Form
-10-Year Treasury Note
-1040 IRS Form
-1040A Form
-1040EZ Form
-IA-1092 SEC Release
-11th District Cost of Funds Index (COFI)
-12B-1 Fee
+##### 1040A Form
+
+##### 1040EZ Form
+
+##### IA-1092 SEC Release
+
+##### 11th District Cost of Funds Index (COFI)
+
+##### 12B-1 Fee
 183-Day Rule
 30-Year Treasury
 51% Attack
