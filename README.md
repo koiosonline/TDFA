@@ -3,14 +3,17 @@ Access this page via: [url]
 
 [url]: https://koiosonline.github.io/trading]
 
+| 0     | A     | B     | C     | D     | E     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     | B     |
+| ------| 
 |[0](#0)|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)
 
 
 
-## 0
-1%/10 Net 30
 
-##### 1%/10 Net 30? 
+## 0
+
+
+##### 1%/10 Net 30
 
  The 1%/10 net 30 calculation is a way of providing cash discounts on purchases. 
  It means that if the bill is paid within 10 days, there is a 1% discount. 
@@ -20,7 +23,7 @@ Access this page via: [url]
 ##### 10-K
 A 10-K is a comprehensive report filed annually by a publicly-traded company about its financial performance and is required by the 
 [U.S. Securities and Exchange Commission (SEC)](#securities-and-exchange-commission-sec). 
-The report contains much more detail than a company's annual report, which is sent to its shareholders before an annual meeting to elect company directors.
+The report contains much more detail than a company's [annual report](#annual-report), which is sent to its shareholders before an annual meeting to elect company directors.
 
 
 ##### 10-Q SEC Form
@@ -68,6 +71,14 @@ American Dream
 Analysis of Variance (ANOVA)
 Angel Investor
 Annual Percentage Rate (APR)
+
+##### Annual Report
+An annual report is a publication that public corporations must provide annually to shareholders to describe their operations and financial conditions. 
+The front part of the report often contains an impressive combination of graphics, photos, 
+and an accompanying narrative, all of which chronicle the company's activities over the past year. 
+The back part of the report contains detailed financial and operational information.
+
+
 Annuity
 Applicable Federal Rate (AFR)
 Artificial Intelligence (AI)
