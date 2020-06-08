@@ -1,15 +1,45 @@
 # Trading minor glossary
-Access this page via: https://koiosonline.github.io/trading/
+Access this page via: [url]
+
+
+- [Guiding material](#guiding-material)
+  - [Day 0 Introduction](#day-0-introduction)
+  - [Day 1 Deadline Thu May 7th 2020](#day-1-deadline-thu-may-7th-2020)
+  - [Day 2 Deadline Tue May 12th 2020](#day-2-deadline-tue-may-12th-2020)
+
+## Guiding material
+
+### Day 0 Introduction
+
+([TOC](.)) Introduction programming dapps
+
+### Day 1 Deadline Thu May 7th 2020
+
+[url]: https://koiosonline.github.io/trading]
 
 |[0](#0)|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)
 |[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|[O](#o)|[P](#p)|[Q](#q)
 |[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)
 
 
-
 ## 0
 1%/10 Net 30
-10-K
+
+### 1%/10 Net 30? 
+
+ The 1%/10 net 30 calculation is a way of providing cash discounts on purchases. 
+ It means that if the bill is paid within 10 days, there is a 1% discount. 
+ Otherwise, the total amount is due within 30 days.
+
+
+### 10-K
+A 10-K is a comprehensive report filed annually by a publicly-traded company about its financial performance and is required by the U.S. Securities and Exchange Commission (SEC). 
+The report contains much more detail than a company's annual report, which is sent to its shareholders before an annual meeting to elect company directors.
+
+
+
+
+
 10-Q SEC Form
 10-Year Treasury Note
 1040 IRS Form
@@ -504,7 +534,15 @@ See complete list of R terms
 ## S
 S&P 500 Index (Standard & Poor's 500 Index)
 Sarbanes-Oxley (SOX) Act of 2002
-Securities and Exchange Commission (SEC)
+
+### Securities and Exchange Commission (SEC)
+The U.S. Securities and Exchange Commission (SEC) is an independent federal government regulatory agency responsible for protecting investors, 
+maintaining fair and orderly functioning of the securities markets, and facilitating capital formation. 
+It was created by Congress in 1934 as the first federal regulator of the securities markets. 
+The SEC promotes full public disclosure, protects investors against fraudulent and manipulative practices in the market, 
+and monitors corporate takeover actions in the United States. It also approves registration statements for bookrunners among underwriting firms.
+
+
 Security
 Series 63
 Series 7
