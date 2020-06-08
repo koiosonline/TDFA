@@ -1,20 +1,5 @@
 # Trading minor glossary
 Access this page via: [url]
-
-
-- [Guiding material](#guiding-material)
-  - [Day 0 Introduction](#day-0-introduction)
-  - [Day 1 Deadline Thu May 7th 2020](#day-1-deadline-thu-may-7th-2020)
-  - [Day 2 Deadline Tue May 12th 2020](#day-2-deadline-tue-may-12th-2020)
-
-## Guiding material
-
-### Day 0 Introduction
-
-([TOC](.)) Introduction programming dapps
-
-### Day 1 Deadline Thu May 7th 2020
-
 [url]: https://koiosonline.github.io/trading]
 
 |[0](#0)|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)
@@ -25,16 +10,16 @@ Access this page via: [url]
 ## 0
 1%/10 Net 30
 
-### 1%/10 Net 30? 
+#### 1%/10 Net 30? 
 
  The 1%/10 net 30 calculation is a way of providing cash discounts on purchases. 
  It means that if the bill is paid within 10 days, there is a 1% discount. 
  Otherwise, the total amount is due within 30 days.
 
 
-### 10-K
+##### 10-K
 A 10-K is a comprehensive report filed annually by a publicly-traded company about its financial performance and is required by the 
-[U.S. Securities and Exchange Commission (SEC)](securities-and-exchange-commission-sec). 
+[U.S. Securities and Exchange Commission (SEC)](#securities-and-exchange-commission-sec). 
 The report contains much more detail than a company's annual report, which is sent to its shareholders before an annual meeting to elect company directors.
 
 
