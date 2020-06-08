@@ -1,7 +1,7 @@
 # Trading minor glossary
 Access this page via: [url]
 
-[url]: https://koiosonline.github.io/trading]
+[url]: https://koiosonline.github.io/trading
 
 | 0     | A     | B     | C     | D     | E     | F     | G     | H     | I     | J     | K     | L     | M     | N     | O     | P     | Q     | R     | S     | T     | U     | V     | W     | X     | Y     | Z     |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
