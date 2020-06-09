@@ -1,4 +1,4 @@
-# Trading minor glossary
+# Trading minor glossary van ricardo
 Access this page via: [url]
 
 [url]: https://koiosonline.github.io/trading
