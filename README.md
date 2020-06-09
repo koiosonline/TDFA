@@ -44,9 +44,12 @@ The report contains much more detail than a company's [annual report](#annual-re
 ##### 12B-1 Fee
 
 
-### 183-Day Rule
-30-Year Treasury
-51% Attack
+##### 183-Day Rule
+
+##### 30-Year Treasury
+
+##### 51% Attack
+
 401(a) Plan
 401(k) Plan
 403(b) Plan
