@@ -42,7 +42,9 @@ The report contains much more detail than a company's [annual report](#annual-re
 ##### 11th District Cost of Funds Index (COFI)
 
 ##### 12B-1 Fee
-183-Day Rule
+
+
+### 183-Day Rule
 30-Year Treasury
 51% Attack
 401(a) Plan
@@ -61,7 +63,8 @@ See complete list of # terms
 
 ##### Absolute Advantage
 
-Accounting Equation
+##### Accounting Equation
+
 Accounting Rate of Return (ARR)
 Acid-Test Ratio
 Acquisition
