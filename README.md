@@ -12,72 +12,32 @@
 
 ## 0
 
-
-##### 1%/10 Net 30
-
- The 1%/10 net 30 calculation is a way of providing cash discounts on purchases. 
- It means that if the bill is paid within 10 days, there is a 1% discount. 
- Otherwise, the total amount is due within 30 days.
-
-
-##### 10-K
-A 10-K is a comprehensive report filed annually by a publicly-traded company about its financial performance and is required by the 
-[U.S. Securities and Exchange Commission (SEC)](#securities-and-exchange-commission-sec). 
-The report contains much more detail than a company's [annual report](#annual-report), which is sent to its shareholders before an annual meeting to elect company directors.
-
-
-##### 10-Q SEC Form
-
-##### 10-Year Treasury Note
-
-##### 1040 IRS Form
-
-##### 1040A Form
-
-##### 1040EZ Form
-
-##### IA-1092 SEC Release
-
-##### 11th District Cost of Funds Index (COFI)
-
-##### 12B-1 Fee
-
-
-##### 183-Day Rule
-
-##### 30-Year Treasury
-
-##### 51% Attack
-
-401(a) Plan
-401(k) Plan
-403(b) Plan
-457 Plan
-5/1 Hybrid Adjustable-Rate Mortgage (5/1 Hybrid ARM)
-501(c)(3) Organizations
-52-Week High/Low
-529 Plan
-8-K (Form 8K)
-80-20 Rule
-83(b) Election
-See complete list of # terms
 ## A
 
-##### Absolute Advantage
+##### Algorithm
+This is an examplary text. Let's see if enters work!
+Let's see. did it?
+##### Allocation
 
-##### Accounting Equation
+##### Alpha
 
-Accounting Rate of Return (ARR)
-Acid-Test Ratio
-Acquisition
-Adverse Selection
-After-Hours Trading
-Alpha
-Amalgamation
-American Depositary Receipt (ADR)
-American Dream
-Analysis of Variance (ANOVA)
-Angel Investor
+##### Angel investor
+
+##### API
+
+##### Arbitrage
+
+##### Artificial intelligence
+
+##### Ask
+
+##### Asset
+
+##### Asset Class
+
+##### At the money
+
+##### Automated trading
 
 ##### Annual Percentage Rate (APR)
 
