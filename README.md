@@ -1,7 +1,6 @@
-# Trading minor glossary van ricardo
-Access this page via: [url]
+# Trading Digital & Financial Assets terminology
 
-[url]: https://koiosonline.github.io/trading
+
 
 | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|
