@@ -25,11 +25,11 @@ An individual providing the first investment into a new company, typically in ex
 #### API
 Application Programming Interface. Can been seen as a software intermediary that makes communication between multiple applications. In trading, exchanges provide API's traders can connect to. Via an API, a trader/application/program can send and receive information to the exchange's API. This allows for, for example, placing orders. Automated trading is done via API's.<br/><br/>
 #### Arbitrage
-<br/><br/>
+Taking advantage of price differences between two or more markets on an asset. An example: buying an asset on exchange A for $100,- and selling the asset on exchnage B for $110,-. Note that this proces can also be automated and there are dedicated arbitrage bots active in mboth traditional and cryptocurrency markets<br/><br/>
 #### Artificial intelligence
-<br/><br/>
+Often called 'AI'. In trading, an automated (self learning / machine learning) trading strategy is often called a trading bot and can be seen as Artificial Intelligence. Self learning strategies are very sophisticated and operate in larger markets. Some of the most succesful trading firms in the world use AI. AI is also be used to analyse (financial) data and build portfolio's.<br/><br/>
 #### Ask
-<br/><br/>
+The price 'asked' by the seller of an asset<br/><br/>
 #### Asset
 <br/><br/>
 #### Asset Class
