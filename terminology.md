@@ -15,11 +15,11 @@
 ## A
 
 #### Algorithm
-    A sequence of computer-implementable instructions, typically to solve a class of problems or to perform a computation. In trading, algorithms are used to automate trading stratgies and execute orders on exchanges. Often called: algorithmic trading or algo trading. Algo's are used by traders, exchanges, market makers and many more market participants.<br/><br/>
+   A sequence of computer-implementable instructions, typically to solve a class of problems or to perform a computation. In trading, algorithms are used to automate trading stratgies and execute orders on exchanges. Often called: algorithmic trading or algo trading. Algo's are used by traders, exchanges, market makers and many more market participants.<br/><br/>
 #### Allocation
-    Refers to capital. Capital allocation is the strategically positioning and distribution of capital. Often of course, with the intent to maximise profits or capital protection.<br/><br/>
+   Refers to capital. Capital allocation is the strategically positioning and distribution of capital. Often of course, with the intent to maximise profits or capital protection.<br/><br/>
 #### Alpha
-    Alpha, often considered the active return on an investment, gauges the performance of an investment against a market index or benchmark that is considered to represent the market's movement as a whole. The excess return of an investment relative to the return of a benchmark index is the investment's alpha.<br/><br/>
+   Alpha, often considered the active return on an investment, gauges the performance of an investment against a market index or benchmark that is considered to represent the market's movement as a whole. The excess return of an investment relative to the return of a benchmark index is the investment's alpha.<br/><br/>
 #### Angel investor
 <br/><br/>
 #### API
