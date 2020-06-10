@@ -21,9 +21,9 @@ Refers to capital. Capital allocation is the strategically positioning and distr
 #### Alpha
 Alpha, often considered the active return on an investment, gauges the performance of an investment against a market index or benchmark that is considered to represent the market's movement as a whole. The excess return of an investment relative to the return of a benchmark index is the investment's alpha.<br/><br/>
 #### Angel investor
-<br/><br/>
+An individual providing the first investment into a new company, typically in exchange for ownership equity in the company. <br/><br/>
 #### API
-<br/><br/>
+Application Programming Interface. Can been seen as a software intermediary that makes communication between multiple applications. In trading, exchanges provide API's traders can connect to. Via an API, a trader/application/program can send and receive information to the exchange's API. This allows for, for example, placing orders. Automated trading is done via API's.<br/><br/>
 #### Arbitrage
 <br/><br/>
 #### Artificial intelligence
