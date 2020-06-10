@@ -14,78 +14,63 @@
 
 ## A
 
-##### Algorithm
-This is an examplary text. Let's see if enters work!
-Let's see. did it?
-##### Allocation
+#### Algorithm
+This is an examplary text. Let's see if enters work!<br/><br/>
+Let's see. did it?[link to source](https://www.youtube.com/)<br/><br/>
+#### Allocation
+<br/><br/>
+#### Alpha
+<br/><br/>
+#### Angel investor
+<br/><br/>
+#### API
+<br/><br/>
+#### Arbitrage
+<br/><br/>
+#### Artificial intelligence
+<br/><br/>
+#### Ask
+<br/><br/>
+#### Asset
+<br/><br/>
+#### Asset Class
+<br/><br/>
+#### At the money
+<br/><br/>
+#### Automated trading
+<br/><br/>
 
-##### Alpha
-
-##### Angel investor
-
-##### API
-
-##### Arbitrage
-
-##### Artificial intelligence
-
-##### Ask
-
-##### Asset
-
-##### Asset Class
-
-##### At the money
-
-##### Automated trading
-
-##### Annual Percentage Rate (APR)
-
-##### Annual Report
-An annual report is a publication that public corporations must provide annually to shareholders to describe their operations and financial conditions. 
-The front part of the report often contains an impressive combination of graphics, photos, 
-and an accompanying narrative, all of which chronicle the company's activities over the past year. 
-The back part of the report contains detailed financial and operational information.
-
-
-##### Annuity
-
-##### Applicable Federal Rate (AFR)
-Artificial Intelligence (AI)
-Asset
-Asset Management
-Asset Turnover Ratio
-Assets Under Management (AUM)
-Automated Clearing House (ACH)
-Automated Teller Machine (ATM)
-Average True Range (ATR)
-See complete list of A terms
 ## B
-Balanced Scorecard
-Balance Sheet
-Bank Identification Numbers
-Bankruptcy
-Baye's Theorem
-Bear Market
-Berkshire Hathaway
-Bernie Madoff
-Beta
-Bill of Lading
-Bitcoin Mining
-Blockchain
-Bollinger Band
-Bond
-Break-Even Analysis
-Brexit
-Budget
-Budget Deficit
-Bull Market
-Business Cycle
-Business Ethics
-Business Model
-Business-to-Consumer
-Business Valuation
-See complete list of B terms
+
+#### Backtest
+<br/><br/>
+#### Basket
+<br/><br/>
+#### Bear market
+<br/><br/>
+#### Bearish
+<br/><br/>
+#### Beta
+<br/><br/>
+#### Beta
+<br/><br/>
+#### Bid
+<br/><br/>
+#### Blue chip stocks
+<br/><br/>
+#### Bond
+<br/><br/>
+#### Broker
+<br/><br/>
+#### Bull market
+<br/><br/>
+#### Bullish
+<br/><br/>
+#### Buy back
+<br/><br/>
+#### Buy the rumour
+<br/><br/>
+
 ## C
 Capital
 Capital Asset Pricing Model (CAPM)
