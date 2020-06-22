@@ -35,7 +35,7 @@ Something that is owned by a person, company or organisation. In relation to fin
 #### Asset Class
 An asset class is a grouping of investments that exhibit similar characteristics and are subject to the same laws and regulations. Examples of asset classes are: stocks, bonds, money market instruments, real estate, commodities, futures, financial derivatives and cryptocurrencies.<br/><br/>
 #### At the money
-An option is at the money (ATM) if the strike price is the same as the current spot price of the underlying security.<br/><br/>
+Relates to options. An option is at the money (ATM) if the strike price is the same as the current spot price of the underlying security.<br/><br/>
 #### Automated trading
 Trading tasks that are automatically performed through computer code. An example are trading bots, who run on code autonomously and perform trading tasks, such as the placing of orders and buying/selling of assets.<br/><br/>
 
@@ -71,43 +71,43 @@ Relates to people/companies buying stocks or other assets/securities on a rumour
 ## C
 
 #### Call
-<br/><br/>
+Relates to options. Call options are financial contracts that give the option buyer the right, but not the obligation, to buy a stock, bond, commodity or other asset or instrument at a specified price within a specific time period. A call buyer profits when the underlying asset increases in price.<br/><br/>
 #### Candlestick
-<br/><br/>
-#### Capital gains
-<br/><br/>
+Also called: 'Japanese' candlestick. The Japanese candlestick is a representation of price. It includes the opening price, the closing price, the highest price and the lowest price of an asset in a specified amount of time. Analysis of Japanese candlesticks can give a trader much more information on the markets than price visualised as a line. Be sure to check different candlestick patterns. Google: Candlestick cheatsheet.<br/><br/>
+#### Capital gain
+Capital gain is the rise in value of an asset. The gain is not realised until the asset is sold.<br/><br/>
 #### CBOE
-<br/><br/>
+Chicago Board Options Exchange. Considered to be the largest U.S. options exchange.<br/><br/>
 #### Chart
-<br/><br/>
+Refers to price and time depicated on a chart. A widely used tool for charts is Tradingview.<br/><br/>
 #### Close
-<br/><br/>
+The ending of trading sessions and/or the final price at the moment a market or candle 'closes'. The latter is often called: candle close.<br/><br/>
 #### CME
-<br/><br/>
+Chicago Mercantile Exchange. Considered to be the world's largest financial derivatives exchange, and trades in asset classes that include agricultural products, currencies, energy, interest rates, metals, and stock indexes.<br/><br/>
 #### Commodity
-<br/><br/>
+A commodity is a basic good used in commerce that is interchangeable with other commodities of the same type. Investors and traders can buy and sell commodities directly in the spot (cash) market or via derivatives such as futures and options.<br/><br/>
 #### Compounding
-<br/><br/>
+Compounding occurs when your investment earnings or savings account interest is added to your principal, forming a larger base on which future earnings may accumulate. As your investment base gets larger, it has the potential to grow faster. And the longer your money is invested, the more you stand to gain from compounding.<br/><br/>
 #### Confluence
-<br/><br/>
+In trading/Technical Analysis: the alignment of several trading signals. For example: when several indicators show you 'buy signals', there is confluence, giving you a strong(er) overall signal that an asset may rise in price.<br/><br/>
 #### Continuation
-<br/><br/>
+The event of price continuing in the general direction after, for example, a brief stabilisation or period of 'ranging'.<br/><br/>
 #### Contract for difference (CFD)
-<br/><br/>
+CFD. A contract between two parties (often called the 'buyer' and 'seller') indicating that the buyer will pay to the seller the difference between the current value of an asset and its value at contract time (if the difference is negative, then the seller pays instead to the buyer).<br/><br/>
 #### Correlation
-<br/><br/>
+A 'relation' between markets and/or assets. Example: the Bitcoin price and the stock market could be 'correlated'. Correlation is a statistic that measures the degree to which two variables move in relation to each other.<br/><br/>
 #### Counterparty
-<br/><br/>
+The 'party' on the other side of a financial transaction.<br/><br/>
 #### Counterparty risk
-<br/><br/>
+The risk brought into a financial transaction or agreement by the opposing party. Example: risk of default on contractual obligation.<br/><br/>
 #### Covering
-<br/><br/>
+Relates to 'short covering'. Short covering refers to buying back borrowed securities in order to close out an open short position at a profit or loss.<br/><br/>
 #### Cross
-<br/><br/>
+The crossing or overlapping of moving averages or price 'crossing' the value of a moving average or other plotted indicator.<br/><br/>
 #### Crowdfunding
-<br/><br/>
+The collecting of funds via a large group of individuals. Usually smaller amounts and via the internet through crowdfunding platforms. A well known example is Kickstarter.<br/><br/>
 #### Cycle
-<br/><br/>
+Relates to market cycles. Market cycles are movements in price that appear cycliccaly/repetitively.<br/><br/>
 
 ## D
 
