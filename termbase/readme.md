@@ -17,7 +17,7 @@
 #### Algorithm
 A sequence of computer-implementable instructions, typically to solve a class of problems or to perform a computation. In trading, algorithms are used to automate trading stratgies and execute orders on exchanges. Often called: algorithmic trading or algo trading. Algo's are used by traders, exchanges, market makers and many more market participants.<br/><br/>
 #### Allocation
-Refers to capital. Capital allocation is the strategically positioning and distribution of capital. Often of course, with the intent to maximise profits or capital protection. Example: 50% of your capital can be allocated <br/><br/>
+Refers to capital. Capital allocation is the strategically positioning and distribution of capital. Often of course, with the intent to maximise profits or capital protection. Example: 50% of your capital can be allocated.<br/><br/>
 #### Alpha
 Alpha, often considered the active return on an investment, gauges the performance of an investment against a market index or benchmark that is considered to represent the market's movement as a whole. The excess return of an investment relative to the return of a benchmark index is the investment's alpha.<br/><br/>
 #### Angel investor
@@ -25,50 +25,48 @@ An individual providing the first investment into a new company, typically in ex
 #### API
 Application Programming Interface. Can been seen as a software intermediary that makes communication between multiple applications. In trading, exchanges provide API's traders can connect to. Via an API, a trader/application/program can send and receive information to the exchange's API. This allows for, for example, placing orders. Automated trading is done via API's.<br/><br/>
 #### Arbitrage
-Taking advantage of price differences between two or more markets on an asset. An example: buying an asset on exchange A for $100,- and selling the asset on exchange B for $110,-. Note that this proces can also be automated and there are dedicated arbitrage bots active in mboth traditional and cryptocurrency markets<br/><br/>
+Taking advantage of price differences between two or more markets on an asset. An example: buying an asset on exchange A for $100,- and selling the asset on exchange B for $110,-. Note that this proces can also be automated and there are dedicated arbitrage bots active in mboth traditional and cryptocurrency markets.<br/><br/>
 #### Artificial intelligence
 Often called 'AI'. In trading, an automated (self learning / machine learning) trading strategy is often called a trading bot and can be seen as Artificial Intelligence. Self learning strategies are very sophisticated and operate in larger markets. Some of the most succesful trading firms in the world use AI. AI is also be used to analyse (financial) data and build portfolio's.<br/><br/>
 #### Ask
-The price 'asked' by the seller of an asset<br/><br/>
+The price 'asked' by the seller of an asset.<br/><br/>
 #### Asset
-<br/><br/>
+Something that is owned by a person, company or organisation. In relation to finance, we can speak of current and non-current assets and tangible and intangible assets. Examples of financial assets are: stocks, bonds, equity, securities. For a more detailed definition of assets, check Investopedia, search for 'Asset'.<br/><br/>
 #### Asset Class
-<br/><br/>
+An asset class is a grouping of investments that exhibit similar characteristics and are subject to the same laws and regulations. Examples of asset classes are: stocks, bonds, money market instruments, real estate, commodities, futures, financial derivatives and cryptocurrencies.<br/><br/>
 #### At the money
-<br/><br/>
+An option is at the money (ATM) if the strike price is the same as the current spot price of the underlying security.<br/><br/>
 #### Automated trading
-<br/><br/>
+Trading tasks that are automatically performed through computer code. An example are trading bots, who run on code autonomously and perform trading tasks, such as the placing of orders and buying/selling of assets.<br/><br/>
 
 ## B
 
 #### Backtest
-<br/><br/>
+Refers to trading strategies. Backtesting is the practice of testing a strategy's performance over time by using real historical data and reconstruct trades provided by one's strategy. This is usually done using backtesting software or by using programming languages such as Python. Backtesting can be done, to a certain degree, within Tradingview. But for more advanced analysis a manual approach is recommended. If you're up for that, check out Quantopian.<br/><br/>
 #### Basket
-<br/><br/>
+A collection of multiple stocks or other assets, related to each other or with a similar theme.<br/><br/>
 #### Bear market
-<br/><br/>
+A general price decline in a market over time. Can also be used to describe the price decline for a single asset. For example the 2018 Bitcoin bear market.<br/><br/>
 #### Bearish
-<br/><br/>
+A market is considered bearish when prices continuously grind lower and lower. A single asset can also be 'bearish', showing lower and lower or 'falling' prices. The opposite is true when markets or assets are 'bullish'.<br/><br/>
 #### Beta
-<br/><br/>
-#### Beta
-<br/><br/>
+Beta measures the volatility of an investment. It is an indication of its relative risk.<br/><br/>
 #### Bid
-#### 
+The price buyers are willing to pay for an asset. Bids can usually be found on the 'buy-side' in orderbooks.<br/><br/>
 #### Blue chip stocks
-<br/><br/>
+Big companies that are considered well performing and household names with a market cap of over $1B. Usually considered good investments in the stock market. For example: Apple and Amazon.<br/><br/>
 #### Bond
-<br/><br/>
+Bonds are a 'fixed income instrument'issued by governments and coorporations when they want to raise money. By buying a bond, you lend the issuer of the bond money which will be paid back on a predetermined date. During the period of issuance and paying back, an interest is paid to the buyer of the bond. Unlike stocks, bonds don't give you ownership rights.<br/><br/>
 #### Broker
-<br/><br/>
+A person or firm who arranges transactions between a buyer and a seller for a commission when the deal is executed.<br/><br/>
 #### Bull market
-<br/><br/>
+A general price rise in a market over time. Can also be used to describe the price rise for a single asset. For example the 2017 Bitcoin bull market.<br/><br/>
 #### Bullish
-<br/><br/>
+A market is considered bullish when prices continuously rise higher and higher. A single asset can also be 'bullish', showing higher and higher or 'rising' prices. The opposite is true when markets or assets are 'bearish'.<br/><br/>
 #### Buy back
-<br/><br/>
+Related to 'stock buy back'. A buy back is when a company buys back its own shares, decreasing the total amount of shares available on the market.<br/><br/>
 #### Buy the rumour
-<br/><br/>
+Relates to people/companies buying stocks or other assets/securities on a rumour of events in the future that will have a positive effect on price. The complete saying goes: 'buy the rumour, sell the news'.<br/><br/>
 
 ## C
 
