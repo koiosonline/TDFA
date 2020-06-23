@@ -107,48 +107,48 @@ The crossing or overlapping of moving averages or price 'crossing' the value of 
 #### Crowdfunding
 The collecting of funds via a large group of individuals. Usually smaller amounts and via the internet through crowdfunding platforms. A well known example is Kickstarter.<br/><br/>
 #### Cycle
-Relates to market cycles. Market cycles are movements in price that occur cycliccaly/repetitively. In the analysis of financial markets, we can generally identify four phases: accumulation phase, mark-up phase, distribution phase and mark-up phase. For more information, see [Market cycle](https://github.com/koiosonline/TDFA/blob/master/termbase/readme.md#market-cycle)<br/><br/>
+Relates to market cycles. Market cycles are movements in price that occur cycliccaly/repetitively. In the analysis of financial markets, we can generally identify four phases: accumulation phase, mark-up phase, distribution phase and mark-up phase. For more information, see [Market cycle](https://github.com/koiosonline/TDFA/blob/master/termbase/readme.md#market-cycle).<br/><br/>
 
 ## D
 
 #### Dark pool
-<br/><br/>
+A dark pool is a privately organized financial forum or exchange that give certain investors the opportunity to place large orders and make trades without publicly revealing their intentions during the search for a buyer or seller.<br/><br/>
 #### Day trading
-<br/><br/>
+Day trading is considered the actively trading in assets multiple times a day.<br/><br/>
 #### Dead cat bounce
-<br/><br/>
+When price 'bounces' upwards after a prolonged downward move but fails to 'reverse' the general trend, we seapk of a dead cat bounce. Price continues in the direction of the prevailing trend after this bounce.<br/><br/>
 #### Death cross
-<br/><br/>
+Generally a bearish crossing of the 50 day moving average and the 200 day moving average.<br/><br/>
 #### Debt
-<br/><br/>
+Debt is often an amount of money that a lendee/debtor owes to lendor/creditor.<br/><br/>
 #### Decentralised Finance
-<br/><br/>
+Also referred to as 'DeFi'. A relatively new movement within the blockchain technology space in which projects aim to realise finance in a more decentralised fashion. An example would be the use of a trustless, transparant protocol instead of an organisation / single entity.<br/><br/>
 #### Decentralized exchange
-<br/><br/>
+An exchange (currently this is often a cryptocurrency exchange) that is not under control of a single entity but is rather a trustless protocol using smart contracts to executre orders and manage funds. Examples are [Uniswap](https://uniswap.org/) and [KyberSwap] (https://kyberswap.com/swap)<br/><br/>
 #### Deleverage
-<br/><br/>
+Decreasing the total amount of leveraged used on one's position.<br/><br/>
 #### Delta
-<br/><br/>
+Delta expresses the amount of price change a derivative will see based on the price of the underlying security (for example: a stock)<br/><br/>
 #### Depression
-<br/><br/>
+An economic downturn, greater than a recession. We generally speak of a depression when a country's decline in GDP exceeds 10% in a given year and the recession lasts longer than three years. The most famous example is the 1929-1933 depression, also called 'The Great Depression'.<br/><br/>
 #### Derivative
-<br/><br/>
+A financial contract/instrument that is derived from its underlying asset.<br/><br/>
 #### Digital asset
-<br/><br/>
+Assets, but digital. The most famous example is a cryptocurrency.<br/><br/>
 #### Directional
-<br/><br/>
+The general direciton of movement.<br/><br/>
 #### Divergence
-<br/><br/>
+We speak of a divergence when a technical indicator moves in the opposite direction of price. Divergences are considered to be powerful indicators that are often used on indicators such as the Relative Strength Index (RSI). We can generally identify two types of divergences: regular and hidden.<br/><br/>
 #### Diversification
-<br/><br/>
+The allocation of capital spread over two ore more assets/markets/baskets. We generally speak of portfolio diversification. A 'diversified' portfolio is considered to be less risky than allocating one's entire portfolio to a single asset.<br/><br/>
 #### Dividend
-<br/><br/>
+A distribution of a company's profits, paid out to its shareholders. Dividends are payments made by publicly-listed companies as a reward to investors for putting their money into the venture.<br/><br/>
 #### Dollar cost averaging
-<br/><br/>
+Investing a fixed amount of money into an asset in regular intervals, regardless of price. By using DCA, investors can invest into an asset or market over a period of time without worrying about timing the market. Over multiple years or even decades, DCA has proven to be a good way of investing for people whi don't want to spend too much time on their investment but rather allocate funds for a longer period of time.<br/><br/>
 #### Downtrend
-<br/><br/>
+We say an asset is 'in a downtrend' when the price of the asset shows lower highs and lower lows.<br/><br/>
 #### Drawdown
-<br/><br/>
+A drawdown refers to how much an investment or trading account is down from the peak before it recovers back to the peak.<br/><br/>
 
 ## E
 #### Earnings
