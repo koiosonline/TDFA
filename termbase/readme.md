@@ -31,7 +31,7 @@ Often called 'AI'. In trading, an automated (self learning / machine learning) t
 #### Ask
 The price 'asked' by the seller of an asset.<br/><br/>
 #### Asset
-Something that is owned by a person, company or organisation. In relation to finance, we can speak of current and non-current assets and tangible and intangible assets. Examples of financial assets are: stocks, bonds, equity, securities. For a more detailed definition of assets, check Investopedia, search for 'Asset'.<br/><br/>
+Something that is owned by a person, company or organisation. In relation to finance, we can speak of current and non-current assets and tangible and intangible assets. Examples of financial assets are: stocks, bonds, equity, securities. For a more detailed definition of assets, check [Investopedia](https://www.investopedia.com/terms/a/asset.asp)<br/><br/>
 #### Asset Class
 An asset class is a grouping of investments that exhibit similar characteristics and are subject to the same laws and regulations. Examples of asset classes are: stocks, bonds, money market instruments, real estate, commodities, futures, financial derivatives and cryptocurrencies.<br/><br/>
 #### At the money
@@ -107,7 +107,7 @@ The crossing or overlapping of moving averages or price 'crossing' the value of 
 #### Crowdfunding
 The collecting of funds via a large group of individuals. Usually smaller amounts and via the internet through crowdfunding platforms. A well known example is Kickstarter.<br/><br/>
 #### Cycle
-Relates to market cycles. Market cycles are movements in price that occur cycliccaly/repetitively. In the analysis of financial markets, we can generally identify four phases: accumulation phase, mark-up phase, distribution phase and mark-up phase. For more information, see <br/><br/>
+Relates to market cycles. Market cycles are movements in price that occur cycliccaly/repetitively. In the analysis of financial markets, we can generally identify four phases: accumulation phase, mark-up phase, distribution phase and mark-up phase. For more information, see [Market cycle](https://github.com/koiosonline/TDFA/blob/master/termbase/readme.md#market-cycle)<br/><br/>
 
 ## D
 
