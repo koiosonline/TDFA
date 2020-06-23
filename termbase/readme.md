@@ -73,7 +73,7 @@ Relates to people/companies buying stocks or other assets/securities on a rumour
 #### Call
 Relates to options. Call options are financial contracts that give the option buyer the right, but not the obligation, to buy a stock, bond, commodity or other asset or instrument at a specified price within a specific time period. A call buyer profits when the underlying asset increases in price.<br/><br/>
 #### Candlestick
-Also called: 'Japanese' candlestick. The Japanese candlestick is a representation of price. It includes the opening price, the closing price, the highest price and the lowest price of an asset in a specified amount of time. Analysis of Japanese candlesticks can give a trader much more information on the markets than price visualised as a line. Be sure to check different candlestick patterns. Google: Candlestick cheatsheet.<br/><br/>
+Also called: 'Japanese' candlestick. The Japanese candlestick is a representation of price. It includes the opening price, the closing price, the highest price and the lowest price of an asset in a specified amount of time. Analysis of Japanese candlesticks can give a trader much more information on the markets than price visualised as a line. Be sure to check different candlestick patterns. [Candlestick cheatsheets](https://forexpops.com/forex-candlestick-patterns-cheat-sheet/).<br/><br/>
 #### Capital gain
 Capital gain is the rise in value of an asset. The gain is not realised until the asset is sold.<br/><br/>
 #### CBOE
