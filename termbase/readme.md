@@ -107,7 +107,7 @@ The crossing or overlapping of moving averages or price 'crossing' the value of 
 #### Crowdfunding
 The collecting of funds via a large group of individuals. Usually smaller amounts and via the internet through crowdfunding platforms. A well known example is Kickstarter.<br/><br/>
 #### Cycle
-Relates to market cycles. Market cycles are movements in price that occur cycliccaly/repetitively. In the analysis of financial markets, we can generally identify four phases: accumulation phase, mark-up phase, distribution phase and mark-up phase. For more information, see [Market cycle] (#market cycle)<br/><br/>
+Relates to market cycles. Market cycles are movements in price that occur cycliccaly/repetitively. In the analysis of financial markets, we can generally identify four phases: accumulation phase, mark-up phase, distribution phase and mark-up phase. For more information, see <br/><br/>
 
 ## D
 
