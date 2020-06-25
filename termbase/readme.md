@@ -505,7 +505,7 @@ A drawdown refers to how much an investment or trading account is down from the 
 #### Vegapoints
 <br/><br/>
 #### Volatility
-<br/><br/>
+Volatility is a measure of the price fluctuations of an asset or portfolio.<br/><br/>
 #### Volume
 <br/><br/>
 
