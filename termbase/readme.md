@@ -394,7 +394,7 @@ A drawdown refers to how much an investment or trading account is down from the 
 #### Revenge trading
 <br/><br/>
 #### Risk management
-<br/><br/>
+A common definition of investment risk is a deviation from an expected outcome.<br/><br/>
 #### Risk reward
 <br/><br/>
 #### ROI (return on investment)
