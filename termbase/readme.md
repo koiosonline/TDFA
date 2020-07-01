@@ -406,101 +406,101 @@ A common definition of investment risk is a deviation from an expected outcome.<
 The S&P 500 index is a stock index of the United States that, due to its broad composition, provides a reliable picture of developments in the US stock market. 
 The 500 largest US companies by market capitalization are included in this index.<br/><br/>
 #### Scaling in or out
-<br/><br/>
+A scale order consists of multiple limit orders spread over increasing or decreasing prices. At Scaling in, these are decreasing prices so that the trader gets the best price. When scaling out, these are rising prices so that the trader can take advantage of rising prices and thus achieve more profit. A scale order is one that includes multiple orders at different prices in order to avoid the market impact of issuing one large order. It can also be used to get a better average price when entering or leaving a position.<br/><br/>
 #### Scalp
-<br/><br/>
+Scalping or scalp trading is a trading style or technique in which traders buy and sell an asset within a very short period of time. Scalping is a trading strategy in which traders profit off small price changes for a stock.<br/><br/>
 #### Sector
-<br/><br/>
+A sector is a part of the economy in which companies share the same or a related product or service. It can also be an industry or market with common operational features.<br/><br/>
 #### Security
-<br/><br/>
+A security is a negotiable financial instrument issued by a company or government that give ownership rights, debt rights, or rights to buy, sell, or trade an option.<br/><br/>
 #### Sell the news
-<br/><br/>
+Sell the news relates to people/companies selling stocks or other assets/securities after positive news comes out and confirms rumors from before. The complete saying goes: 'buy the rumour, sell the news'.<br/><br/>
 #### Sentiment analysis
-<br/><br/>
+Sentiment analysis is used by a trader to define a market as bullish or bearish, with a bear market characterized by assets going down, and a bull market by prices going up.<br/><br/>
 #### Settlement
-<br/><br/>
+Settlement is the actual exchange of money and securities between the parties of a trade on the settlement date after agreeing earlier on the trade.<br/><br/>
 #### Share
-<br/><br/>
+A share is a single unit of a stock that represents ownership in a company or financial asset. <br/><br/>
 #### Short
-<br/><br/>
+A short position in a share means that the share has been sold, without the trader having the share in the portfolio. A trader may decide to short when she believes that the price of that share is likely to decrease in the near future. The trader then can repurchase or cover it at a lower price and make a profit from the difference.<br/><br/>
 #### Short squeeze
-<br/><br/>
+A short squeeze is a rapid increase in the price of a stock or an other asset. The traders who had a short position are then forced to close their position.<br/><br/>
 #### Slippage
-<br/><br/>
+Slippage happens when the price at which your order was executed does not match the expected price.<br/><br/>
 #### Social trading
-<br/><br/>
+Social trading is a form of investing that allows investors to observe the trading behavior of someone else and to follow their investment strategies using copy trading or mirror trading.<br/><br/>
 #### Solvency
-<br/><br/>
+Solvency is the ability of a company to meet its long-term debts and financial obligations.<br/><br/>
 #### Speculation
-<br/><br/>
+Speculation involves trading a financial asset involving high risk, in expectation of significant returns. The motive is to take maximum advantage from fluctuations in the market.<br/><br/>
 #### Spoofing
-<br/><br/>
+Spoofing is an illegal form of market manipulation in which a trader places a large order to buy or sell a financial asset with no intention of executing. By doing so, the trader—or "the spoofer"—creates an artificial impression of high demand for the asset.<br/><br/>
 #### Spot
-<br/><br/>
+A spot trade refers to the purchase or sale financial asset for instant delivery on a specified date. A spot price is then the value of an asset at any exact given time.<br/><br/>
 #### Spread
-<br/><br/>
+Spread is the difference between two prices usually in trading this is referred to the bid and ask price of an financial asset.<br/><br/>
 #### Stock
-<br/><br/>
+A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own.<br/><br/>
 #### Stock market
-<br/><br/>
+The Stock market refers to the collection of markets and exchanges where shares of public listed companies are traded.<br/><br/>
 #### Stock split
-<br/><br/>
+A stock split increases the number of shares in a company. So, if a company had 10 million shares outstanding before the split, it will have 20 million shares outstanding after a 2-for-1 split.<br/><br/>
 #### Stock symbol
-<br/><br/>
+A stock symbol is an abbreviation used to uniquely identify publicly traded shares of a particular stock. Stock symbols are also known as "ticker symbols".<br/><br/>
 #### Stop limit
-<br/><br/>
+A stop-limit order is a conditional trade that combines the features of stop with those of a limit order and is used to control risk.<br/><br/>
 #### Stop loss
-<br/><br/>
+A stop-loss order is an order placed to buy or sell a security when it reaches a certain price. Stop loss orders are there to limit a trader’s loss on a position.<br/><br/>
 #### Stop market
 <br/><br/>
 #### Stop run
-<br/><br/>
+Stop run, also known as stop loss hunting, refers to a situation where market participants are pushing the price of a stock to a level where they believe other traders have placed stop orders. Most of the times this is just above or below a support or resistance level.<br/><br/>
 #### Straddle
-<br/><br/>
+A straddle is an options strategy involving the purchase of both a put and call option for the same expiration date and strike price on the same underlying.<br/><br/>
 #### Supply
-<br/><br/>
+Supply is an economic concept that describes the total amount of a specific good or service that is available at the marketplace.<br/><br/>
 #### Support
-<br/><br/>
+A support level is a certain price level at which the value of an asset repeatedly stops falling and bounces back up.<br/><br/>
 #### Swap
-<br/><br/>
+A swap is a derivative contract through which two parties exchange the cash flows or liabilities from two different financial instruments.<br/><br/>
 #### Swing trading
-<br/><br/>
+Swing trading refers to the practice of trying to profit from market swings of a minimum of one day and as long as several weeks.<br/><br/>
 
 ## T
 #### Take profit
-<br/><br/>
+Take profit refers to when a trader closes an open position for a profit.<br/><br/>
 #### Taker fee
-<br/><br/>
+Taker fee is paid when an order is executed immediately, which removes liquidity out of the order book. This usually happens when a trader makes a market order.<br/><br/>
 #### Technical analysis
-<br/><br/>
+Technical analysis is a means of examining and predicting price movements in the financial markets, by analyzing statistical trends gathered from trading activity, such as price movement and volume.<br/><br/>
 #### Ticker
 <br/><br/>
 #### Timeframe
-<br/><br/>
+A time frame refers to the amount of time that a trend lasts for in a market, which can be identified and used by traders.<br/><br/>
 #### Trade management
-<br/><br/>
+Trade management refers to everything a trader actively does after a trade is executed to maximize the potential profit and minimize the risk.<br/><br/>
 #### Trading
 <br/><br/>
 #### Trading bot
-<br/><br/>
+A trading bot is a software program that interacts directly with exchanges (often using API’s to obtain and interpret relevant information) and places buy or sell orders on your behalf depending on the interpretation of the market data.<br/><br/>
 #### Trailing stop-loss
-<br/><br/>
+A trailing stop is designed to lock in profits or limit losses as a trade moves favorably.<br/><br/>
 #### Trend
-<br/><br/>
+A trend refers to the general direction of a market or an asset's price.<br/><br/>
 #### Trendline
-<br/><br/>
+Trendlines are lines that traders draw on charts to connect a series of prices together. The resulting line is then used to give the trader the direction in which an investment's value might move.<br/><br/>
 #### Turbo
-<br/><br/>
+A turbo is an investment product that allows traders to trade with leverage on various underlying assets and investment funds.<br/><br/>
 
 ## U
 #### Underlying asset
-<br/><br/>
+An underlying asset is the security on which a derivative contract is based upon.<br/><br/>
 #### Underwater
-<br/><br/>
+Underwater is the term for an asset or a financial contract worth less than its notional value.<br/><br/>
 #### Unicorn
-<br/><br/>
+A unicorn refers to a privately held startup company valued at over $1 billion.<br/><br/>
 #### Uptrend
-<br/><br/>
+An uptrend describes the price movement of a financial asset when the overall direction is upward. <br/><br/>
 
 ## V
 #### Vegapoints
@@ -508,20 +508,20 @@ The 500 largest US companies by market capitalization are included in this index
 #### Volatility
 Volatility is a measure of the price fluctuations of an asset or portfolio.<br/><br/>
 #### Volume
-<br/><br/>
+Volume is the amount of an asset or security that was traded during a period of time.<br/><br/>
 
 ## W
 #### Wash trading
-<br/><br/>
+A wash trade is an illegal form of market manipulation in which an investor simultaneously sells and buys the same financial instruments for the express purpose of feeding misleading information to the market.<br/><br/>
 #### White paper
-<br/><br/>
+A white paper is an informational document to promote or highlight the features of a solution, product, or service.<br/><br/>
 
 ## X
 
 ## Y
 #### Yield
-<br/><br/>
+Yield refers to the income earned from an investment over a period.<br/><br/>
 #### Yield curve
-<br/><br/>
+A yield curve is a line that plots interest rates of bonds having equal credit quality but differing maturity dates.<br/><br/>
 
 ## Z
