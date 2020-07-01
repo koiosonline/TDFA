@@ -310,69 +310,69 @@ A drawdown refers to how much an investment or trading account is down from the 
 
 ## O
 #### Offset
-<br/><br/>
-#### One triggers other order
-<br/><br/>
+An offset in trading involves assuming an opposite position in relation to an original opening position in the securities markets.<br/><br/>
+#### One triggers other order (OTO)
+The term One-Triggers-the-Other refers to instructions sent to a broker that consist of a primary order and a secondary order, which becomes active only if the primary order is executed.<br/><br/>
 #### Open
 <br/><br/>
 #### Option
-<br/><br/>
+An options is a financial derivative that give buyers the right, but not the obligation, to buy or sell an underlying asset at an agreed-upon price and date.<br/><br/>
 #### Order
-<br/><br/>
+An order is an instructions to a broker to buy or sell a security on behalf of the trader.<br/><br/>
 #### Oscillator
-<br/><br/>
+An oscillator is a technical analysis tool that constructs high- and low- bands between two extreme values, and then builds a trend indicator that fluctuates within these bounds. <br/><br/>
 #### OTC (over the counter)
-<br/><br/>
+Over-the-counter (OTC) refers to the process of securities that are traded for companies that are not listed on a formal exchange. These securities are traded through a broker-dealer network.<br/><br/>
 #### Out of the money
-<br/><br/>
+"Out of the money" (OTM) is an expression used to describe an option contract that only contains extrinsic value.<br/><br/>
 #### Over-the -counter (OTC)
-<br/><br/>
+Over-the-counter (OTC) refers to the process of securities that are traded for companies that are not listed on a formal exchange. These securities are traded through a broker-dealer network.<br/><br/>
 
 ## P
 #### Paper trading
-<br/><br/>
+A paper trading is simulated trading that allows traders to practice on exchanges without the risk of putting in real money and losing it.<br/><br/>
 #### Pattern
-<br/><br/>
+Patterns are the distinctive formations created by the movements of security prices on a chart. These patterns are often used by traders to anticipate the future direction of a security’s price.<br/><br/>
 #### Pegging
 <br/><br/>
 #### Penny stocks
-<br/><br/>
+A penny stock refers to a small company's stock that ussualy trades for less than $5 per share.<br/><br/>
 #### Pension fund
-<br/><br/>
+A pension fund, also known as a superannuation fund in some countries, is any plan, fund, or scheme that provides retirement income.<br/><br/>
 #### Pink sheet stocks
-<br/><br/>
+Pink sheet stocks are stocks that are sold over-the-counter(OTC) and are low-priced penny stocks, meaning that they trade for less than five dollars per share.<br/><br/>
 #### Pivot points
-<br/><br/>
-#### PnL
-<br/><br/>
+A pivot point is a technical analysis indicator and is used by traders as a possible indicator to determine the overall trend of the market over different time frames. The pivot point itself is simply the average of the high, low and closing prices from the previous trading day.<br/><br/>
+#### PnL (Profit and Loss)
+PnL (Profit and Loss) refers to the total profit or loss made by an individual or group over a certain time period.<br/><br/>
 #### Portfolio
-<br/><br/>
+A portfolio refers to group of financial assets that are held by a trader or entity. Assets in a portfolio can come in many forms, including stocks, bonds, commodities or derivatives. A portfolio can also consist of non-publicly tradable securities, like real estate, art, and private investments.<br/><br/>
 #### Position
-<br/><br/>
+A position is the amount of a particular security, commodity or currency held or owned by a person or entity.<br/><br/>
 #### Price action
-<br/><br/>
+Price action is the movement of the price of an financial instrument plotted over time.<br/><br/>
 #### Private equity
-<br/><br/>
+Private equity is an alternative investment class ,typically refers to investment funds, that buy and restructure companies that are not publicly traded on public exchanges.<br/><br/>
 #### Proprietary trading firms
-<br/><br/>
+Proprietary trading refers to a financial firm or commercial bank that invest for direct profit rather than earning commission dollars by trading on behalf of their clients.<br/><br/>
 #### Psychology
-<br/><br/>
+Psychology in trading refers to the emotions and mental state that help to dictate success or failure in trading financial assets.<br/><br/>
 #### Pump and dump
-<br/><br/>
+A pump and dump is a scheme a that involves the artificial inflation (“pump”) of the price of a stock through false, misleading, or exaggerated statements. The fraudster can profit from the price inflation by quickly selling their shares at a high price (“dump”).<br/><br/>
 #### Put
-<br/><br/>
+A put is an options contract that gives the owner the right, but not the obligation, to sell a certain amount of the underlying asset, at a set price within a specific time.<br/><br/>
 
 ## Q
 #### Quant
 <br/><br/>
 #### Quantitative analysis
-<br/><br/>
+Quantitative analysis (QA) is a technique that aims to understanding behaviour through the use of mathematical and statistical modeling, measurement, and research.<br/><br/>
 #### Quantitative easing
-<br/><br/>
+Quantitative easing (QE) is a form of unconventional monetary policy whereby a central bank buys securities or other financial assets in order to inject money into the economy to expand economic activity.<br/><br/>
 #### Quarter
-<br/><br/>
+A quarter is a three-month period on a company's financial calendar and is often used as a basis for periodic financial reports and the paying of dividends.<br/><br/>
 #### Quote
-<br/><br/>
+A quote shows the most recent price of a security or commodity to which a buyer and seller agreed and at which some amount of the asset was transacted.<br/><br/>
 
 ## R
 #### Rally
