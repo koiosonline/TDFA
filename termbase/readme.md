@@ -376,29 +376,29 @@ A drawdown refers to how much an investment or trading account is down from the 
 
 ## R
 #### Rally
-<br/><br/>
+A rally is a period of sustained upward momentum in the prices of stocks, bonds or indices.<br/><br/>
 #### Range
-<br/><br/>
-#### Real Estate Investment Trust
-<br/><br/>
+Range refers to the difference between the low and high prices for financial intrument over a specific time period.<br/><br/>
+#### Real Estate Investment Trust (REIT)
+A real estate investment trust (REIT) is a company that owns, operates, or finances income-generating real estate.<br/><br/>
 #### Recession
-<br/><br/>
+Recession refers to a period of significant decline in general economic activity.<br/><br/>
 #### Regression
-<br/><br/>
+Regression is a statistical method that attempts to determine the strength and character of the relationship between one dependent variable and a series of other (independent) variables.<br/><br/>
 #### Resistance
-<br/><br/>
+A resistance level is the price at which the the price of an asset meets pressure on its way up by the emergence of a growing number of sellers.<br/><br/>
 #### Retrace
-<br/><br/>
+A retracement refers to the temporary reversal of an overextended trend in a stock's price.<br/><br/>
 #### Return on investment (ROI)
-<br/><br/>
+ROI is a financial metric used to measure and evaluate the efficiency of an investment or compare the efficiency of a number of different investments.<br/><br/>
 #### Revenge trading
-<br/><br/>
+Revenge trading refers to when a trader attempts to win back losses by entering a risky and often large trade. <br/><br/>
 #### Risk management
 A common definition of investment risk is a deviation from an expected outcome.<br/><br/>
 #### Risk reward
-<br/><br/>
+The risk/reward ratio marks the potential reward a trader can earn, for every dollar he or she risks on a trade.<br/><br/>
 #### ROI (return on investment)
-<br/><br/>
+ROI is a financial metric used to measure and evaluate the efficiency of an investment or compare the efficiency of a number of different investments.<br/><br/>
 
 ## S
 
