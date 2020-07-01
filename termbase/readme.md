@@ -323,14 +323,14 @@ An order is an instructions to a broker to buy or sell a security on behalf of t
 An oscillator is a technical analysis tool that constructs high- and low- bands between two extreme values, and then builds a trend indicator that fluctuates within these bounds. <br/><br/>
 #### OTC (over the counter)
 Over-the-counter (OTC) refers to the process of securities that are traded for companies that are not listed on a formal exchange. These securities are traded through a broker-dealer network.<br/><br/>
-#### Out of the money
+#### Out of the money (OTM)
 "Out of the money" (OTM) is an expression used to describe an option contract that only contains extrinsic value.<br/><br/>
 #### Over-the -counter (OTC)
 Over-the-counter (OTC) refers to the process of securities that are traded for companies that are not listed on a formal exchange. These securities are traded through a broker-dealer network.<br/><br/>
 
 ## P
 #### Paper trading
-A paper trading is simulated trading that allows traders to practice on exchanges without the risk of putting in real money and losing it.<br/><br/>
+Paper trading is simulated trading that allows traders to practice on exchanges without the risk of putting in real money and losing it.<br/><br/>
 #### Pattern
 Patterns are the distinctive formations created by the movements of security prices on a chart. These patterns are often used by traders to anticipate the future direction of a security’s price.<br/><br/>
 #### Pegging
