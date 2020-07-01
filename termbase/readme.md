@@ -403,7 +403,8 @@ A common definition of investment risk is a deviation from an expected outcome.<
 ## S
 
 #### S&P 500 index
-<br/><br/>
+The S&P 500 index is a stock index of the United States that, due to its broad composition, provides a reliable picture of developments in the US stock market. 
+The 500 largest US companies by market capitalization are included in this index.<br/><br/>
 #### Scaling in or out
 <br/><br/>
 #### Scalp
