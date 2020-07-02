@@ -152,66 +152,66 @@ A drawdown refers to how much an investment or trading account is down from the 
 
 ## E
 #### Earnings
-<br/><br/>
+Earnings refer to the profit what is made on trades.<br/><br/>
 #### Ebitda
-<br/><br/>
+EBITDA stands for Earnings Before Interest, Taxes, Depreciation and Amortization and is a measure of gross profit less a company's overhead deduction.<br/><br/>
 #### Emotion analysis
 <br/><br/>
 #### Equity
-<br/><br/>
+Equity is referred to as shareholder equity, which represents the amount of money that would be returned to a company’s shareholders if all of the assets were liquidated and all of the company's debt was paid off.<br/><br/>
 #### Escrow
-<br/><br/>
+Escrow is a legal concept describing a financial instrument whereby a third party holds an asset or money on behalf of two other parties that are doing a transaction.<br/><br/>
 #### Exchange
-<br/><br/>
+An exchange is an organised marketplace for trading different financial instruments. The function of an exchange is to ensure fair and orderly trading and the efficient dissemination of price information for any of the financial instruments on that exchange.<br/><br/>
 #### Exchange traded fund (ETF)
-<br/><br/>
+An exchange traded fund (ETF) is a type of security that involves a collection of securities and is a passively managed fund that is traded on an exchange. It often often tracks an underlying index, although they can invest in any number of industry sectors or use various strategies.<br/><br/>
 #### Exercise right
 <br/><br/>
 #### Exposure
-<br/><br/>
+Exposure in trading refers to the amount of money that an someone has put in a particular asset and possibly could lose. <br/><br/>
 
 ## F
-#### Family fund
-<br/><br/>
+#### Family of funds
+A family of funds refers to a a group o mutual funds manged by a single investment company.<br/><br/>
 #### Fee
-<br/><br/>
+A fee is a fixed price charged for a specific service. In trading this often refers to brokerage fees.<br/><br/>
 #### Fiat money
-<br/><br/>
+Fiat money is a currency established as money, often by government regulation, but is not backed by a physical commodity, such as gold or silver, but rather by the government that issued it.<br/><br/>
 #### Fibonacci
 <br/><br/>
 #### Fill
-<br/><br/>
+Fill is a trade term that is used to inform a trader that the transaction has been completed.<br/><br/>
 #### Fill or Kill order
-<br/><br/>
+Fill or kill (FOK) is a conditional type of order that instructs a brokerage to execute an order immediately an completely or not at all. This type of order is often used for when a trader wants to do a large order at a certain price. <br/><br/>
 #### Financial Market
-<br/><br/>
+Financial market refers to any marketplace in which people trade financial instruments.<br/><br/>
 #### Fluctuation
-<br/><br/>
+A change to a price or interest rates. that can often be traced back to supply and demand.<br/><br/>
 #### FOMO
-<br/><br/>
+FOMO is the acronym for “Fear Of Missing Out.” The concept refers to the feeling of anxiety or the idea that other people are sharing in a positive or unique experience while you are missing out. In the context of trading, FOMO refers to the fear that a trader or investor feel by missing out on a potentially lucrative investment or trading opportunity.<br/><br/>
 #### Forex
-<br/><br/>
+Forex is a global over-the-counter (OTC) marketplace for the trading of currencies.<br/><br/>
 #### Fractal
-<br/><br/>
+Fractal is a technical analyses indicator on candlestick charts that is based on simple price pattern that is often seen in financial markets. Traders use Fractals to identify a reversal point in the market. <br/><br/>
 #### FTSE
-<br/><br/>
+The Financial Times Stock Exchange Group (FTSE), also known by the nickname of “Footsie,” is an independent organization. The most well-known index, among many at FTSE, is the FTSE 100, which is a key indicator of the London Stock Exchange.<br/><br/>
 #### Fundamental analysis
-<br/><br/>
-#### Future
-<br/><br/>
+Fundamental analysis is a method of measuring the intrinsic value of an asset by analyzing the factors that could influence its price in the future.<br/><br/>
+#### Futures
+Futures are derivative financial contracts that obligate the parties to transact an asset at a predetermined future date and price.<br/><br/>
 
 ## G
 
 #### Gap
-<br/><br/>
+A gap is an area on a chart where the price jumps or falls from the previous day’s close to the opening price of the next day.<br/><br/>
 #### Golden cross
-<br/><br/>
+The golden cross is a candlestick pattern that happens when a relatively short-term moving average crosses above a long-term moving average. Technical analysts see this as bullish sign.<br/><br/>
 #### Good till cancelled order
-<br/><br/>
+A good till cancel order is an order that stays active until either it is filled or the investor cancels it.<br/><br/>
 #### Greeks
-<br/><br/>
+Greeks is a term used in the options market to describe the different dimensions of risk involved in taking an options position.<br/><br/>
 #### Gross Domestic Product (GDP)
-<br/><br/>
+Gross domestic product (GDP) is the total value of everything produced within a country's borders in a specific time period.<br/><br/>
 
 ## H
 #### Hedge
