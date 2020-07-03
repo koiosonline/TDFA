@@ -215,98 +215,98 @@ Gross domestic product (GDP) is the total value of everything produced within a 
 
 ## H
 #### Hedge
-<br/><br/>
+A hedge is an investment to reduce the risk on another investment.<br/><br/>
 #### Hedge fund
-<br/><br/>
+A hedge fund is a pooled investment structure that employ different strategies to earn active return for their investors.<br/><br/>
 #### Hidden order
-<br/><br/>
-#### High frequency trading
-<br/><br/>
+A hidden order is a trading order which instructs a broker to break up a large order into multiple small segments which are sent to exchanges as individual orders.<br/><br/>
+#### High frequency trading (HFT)
+High-frequency trading, is a method of trading that uses powerful software to transact a large number of orders in fractions of a second.<br/><br/>
 #### Hyperinflation
-<br/><br/>
+Hyperinflation is a term to describe fast, extreme, and out-of-control price increases in an economy.<br/><br/>
 
 ## I
 #### Iceberg order
-<br/><br/>
+Iceberg orders are large single orders that have been divided into smaller limit orders for the purpose of hiding the actual order quantity.<br/><br/>
 #### ICO
-<br/><br/>
+An Initial Coin Offering (ICO) is the cryptocurrency industry’s equivalent to an Initial Public Offering (IPO). An ICO is a fundraising mechanism in which new projects sell their underlying crypto tokens.<br/><br/>
 #### In the money
-<br/><br/>
+"In the money" is an expression that refers to an option that possesses intrinsic value.<br/><br/>
 #### Indicator
-<br/><br/>
+Indicators in finance are statistics used to measure current conditions as well as to forecast financial or economic trends.<br/><br/>
 #### Indices
-<br/><br/>
+Indices are a measure of a section of shares in the stock market.<br/><br/>
 #### Inflation
-<br/><br/>
+Inflation is a sustained increase in the general price level of goods and services in an economy over a period of time.<br/><br/>
 #### Insider trading
-<br/><br/>
+Insider trading is an illegal form of trading in which somebody trades a stock of a public company and has non-public information on that stock.<br/><br/>
 #### International Monetary Fund (IMF)
-<br/><br/>
+The International Monetary Fund (IMF) is an international organization working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world.<br/><br/>
 #### Investing
-<br/><br/>
+Investing in financial terms is the act of putting money into something with the expectation of making a profit.<br/><br/>
 #### IPO
-<br/><br/>
+An initial public offering (IPO) refers to the process of offering shares of a private corporation to the public in a new stock issuance.<br/><br/>
 
 ## J
 
 ## K
 
 #### KYC
-<br/><br/>
+The Know Your Client or Know Your Customer is a standard in financial services that ensures investment advisors make an effort to verify the identity, suitability, and risks involved with maintaining a business relationship.<br/><br/>
 
 ## L
 #### Lagging indicator
-<br/><br/>
+A lagging indicator is any measurable or observable variable that moves or changes direction after an event has happened. Lagging indicators confirm trends and changes in trends.<br/><br/>
 #### Leverage
-<br/><br/>
+Leverage in finance refers to the use of debt to amplify returns from an investment or project.<br/><br/>
 #### Limit order
-<br/><br/>
+A limit order is a type of order to purchase or sell a security at a specified price or better.<br/><br/>
 #### Liquidation
-<br/><br/>
+Liquidation in finance is the process of closing a business and distributing its assets to claimants.<br/><br/>
 #### Liquidity
-<br/><br/>
+Liquidity in finance refers to how easily assets can be converted to cash.<br/><br/>
 #### Loan
-<br/><br/>
+A loan is the lending of money from one party to another party<br/><br/>
 #### Long
-<br/><br/>
+A long position—also known as long—is the buying of a financial instrument with the expectation that the price will rise in the near future.<br/><br/>
 
 ## M
 #### Macroeconomics
-<br/><br/>
+Macroeconomics is a branch of economics dealing with the performance, structure, behaviour, and decision-making of an economy as a whole.<br/><br/>
 #### Maker fee
-<br/><br/>
+Maker fee is paid when an order is not immediately executed, which adds liquidity to the orderbook.<br/><br/>
 #### Margin
-<br/><br/>
+Margin is the money borrowed from a brokerage firm to purchase an investment. It is the difference between the total value of securities held in an investor's account and the loan amount from the broker.<br/><br/>
 #### Margin call
-<br/><br/>
+A margin call occurs when the value of an investor's margin account falls below the broker's required amount.  An investor will need to sell positions or deposit funds or securities to meet the margin call.<br/><br/>
 #### Market capitalisation
-<br/><br/>
+Market capitalization, commonly called market cap, is the market value of a publicly traded company's outstanding shares.<br/><br/>
 #### Market cycle
-<br/><br/>
+Market cycles, also known as stock market cycles, is a wide term referring to trends or patterns that emerge during different markets or business environments.<br/><br/>
 #### Market maker
-<br/><br/>
+A market maker is a player in the market that buys and / or sells large quantities of a particular asset in order to promote liquidity, thereby ensuring smooth trading on the financial markets.<br/><br/>
 #### Market order
-<br/><br/>
+A market order is a request to buy or sell a security immediately. This type of order guarantees that the order will be executed, but does not guarantee the execution price.<br/><br/>
 #### Market structure
 <br/><br/>
 #### Merger
-<br/><br/>
+A merger is an agreement that unites two existing companies into one new company.<br/><br/>
 #### Momentum
-<br/><br/>
+Momentum is the rate of acceleration at which the price or volume of an asset is changing.<br/><br/>
 #### Mutual fund
-<br/><br/>
+A mutual fund is a professionally managed investment fund that pools money from many investors to invest in securities like stocks, bonds, money market instruments, and other assets.<br/><br/>
 
 ## N
 #### Net worth
-<br/><br/>
+Net worth is the value of the assets a person or corporation owns, minus the value of all its outstanding liabilities.<br/><br/>
 #### New York Stock Exchange (NYSE)
-<br/><br/>
+The New York Stock Exchange is the world’s largest securities exchange, based on the total market capitalization of its listed securities.<br/><br/>
 #### Non-directional
 <br/><br/>
 #### Non-disclosure agreement
-<br/><br/>
+A non-disclosure agreement is a legally binding contract that establishes a confidential relationship. The party or parties signing the agreement agree that sensitive information they may obtain will not be made available to any others.<br/><br/>
 #### NYSE
-<br/><br/>
+NYSE is an abbreviation of the New York Stock Exchange. The New York Stock Exchange is the world’s largest securities exchange, based on the total market capitalization of its listed securities.<br/><br/>
 
 ## O
 #### Offset
