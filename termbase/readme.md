@@ -116,7 +116,7 @@ A dark pool is a privately organized financial forum or exchange that give certa
 #### Day trading
 Day trading is considered the actively trading in assets multiple times a day.<br/><br/>
 #### Dead cat bounce
-When price 'bounces' upwards after a prolonged downward move but fails to 'reverse' the general trend, we seapk of a dead cat bounce. Price continues in the direction of the prevailing trend after this bounce.<br/><br/>
+When price 'bounces' upwards after a prolonged downward move but fails to 'reverse' the general trend, we speak of a 'dead cat bounce'. Price continues in the direction of the prevailing trend after this bounce.<br/><br/>
 #### Death cross
 Generally a bearish crossing of the 50 day moving average and the 200 day moving average.<br/><br/>
 #### Debt
@@ -166,33 +166,33 @@ An exchange is an organised marketplace for trading different financial instrume
 #### Exchange traded fund (ETF)
 An exchange traded fund (ETF) is a type of security that involves a collection of securities and is a passively managed fund that is traded on an exchange. It often often tracks an underlying index, although they can invest in any number of industry sectors or use various strategies.<br/><br/>
 #### Exercise right
-<br/><br/>
+Your 'right' to exercise, meaning to, for example, exercise or 'put into effect' your right to buy an asset.<br/><br/>
 #### Exposure
-Exposure in trading refers to the amount of money that an someone has put in a particular asset and possibly could lose. <br/><br/>
+Exposure in trading refers to the amount of money that an someone has put in a particular asset. We speak of 'being exposed' to a market or asset. <br/><br/>
 
 ## F
 #### Family of funds
-A family of funds refers to a a group o mutual funds manged by a single investment company.<br/><br/>
+A family of funds refers to a a group of mutual funds manged by a single investment company.<br/><br/>
 #### Fee
-A fee is a fixed price charged for a specific service. In trading this often refers to brokerage fees.<br/><br/>
+A fee is a fixed price charged for a specific service. In trading this often refers to brokerage fees or transaction fees.<br/><br/>
 #### Fiat money
 Fiat money is a currency established as money, often by government regulation, but is not backed by a physical commodity, such as gold or silver, but rather by the government that issued it.<br/><br/>
 #### Fibonacci
-<br/><br/>
+Fibonacci numbers are named after Italian mathematician Leonardo of Pisa, later known as Fibonacci. Fibonacci numbers are strongly related to the golden ratio: Binet's formula expresses the nth Fibonacci number in terms of n and the golden ratio, and implies that the ratio of two consecutive Fibonacci numbers tends to the golden ratio as n increases. <br/><br/>
 #### Fill
-Fill is a trade term that is used to inform a trader that the transaction has been completed.<br/><br/>
+Fill is a trade term that is used to inform a trader that the transaction, meaning a buy or sell order, has been completed or 'filled'.<br/><br/>
 #### Fill or Kill order
 Fill or kill (FOK) is a conditional type of order that instructs a brokerage to execute an order immediately an completely or not at all. This type of order is often used for when a trader wants to do a large order at a certain price. <br/><br/>
 #### Financial Market
-Financial market refers to any marketplace in which people trade financial instruments.<br/><br/>
+Financial market refers to any marketplace in which parties trade financial instruments.<br/><br/>
 #### Fluctuation
-A change to a price or interest rates. that can often be traced back to supply and demand.<br/><br/>
+A change in price. The 'up and down' movements of prices and other metrics can be called 'fluctuations'.<br/><br/>
 #### FOMO
 FOMO is the acronym for “Fear Of Missing Out.” The concept refers to the feeling of anxiety or the idea that other people are sharing in a positive or unique experience while you are missing out. In the context of trading, FOMO refers to the fear that a trader or investor feel by missing out on a potentially lucrative investment or trading opportunity.<br/><br/>
 #### Forex
-Forex is a global over-the-counter (OTC) marketplace for the trading of currencies.<br/><br/>
+Forex is a global over-the-counter (OTC) marketplace for the trading of (traditional) currencies.<br/><br/>
 #### Fractal
-Fractal is a technical analyses indicator on candlestick charts that is based on simple price pattern that is often seen in financial markets. Traders use Fractals to identify a reversal point in the market. <br/><br/>
+A recurring pattern. Fractals can be spotted throughout price charts and are mostly identified when doing technical analysis. Fractals can also be found in nature.<br/><br/>
 #### FTSE
 The Financial Times Stock Exchange Group (FTSE), also known by the nickname of “Footsie,” is an independent organization. The most well-known index, among many at FTSE, is the FTSE 100, which is a key indicator of the London Stock Exchange.<br/><br/>
 #### Fundamental analysis
