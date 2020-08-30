@@ -324,7 +324,7 @@ An oscillator is a technical analysis tool that constructs high- and low- bands 
 #### OTC (over the counter)
 Over-the-counter (OTC) refers to the process of securities that are traded for companies that are not listed on a formal exchange. These securities are traded through a broker-dealer network.<br/><br/>
 #### Out of the money (OTM)
-"Out of the money" (OTM) is an expression used to describe an option contract that only contains extrinsic value.<br/><br/>
+Out of the money is also known as OTM, meaning an option has no intrinsic value, only extrinsic value. A call option is OTM if the underlying price is below the strike price. A put option is OTM if the underlying's price is above the strike price.<br/><br/>
 #### Over-the -counter (OTC)
 Over-the-counter (OTC) refers to the process of securities that are traded for companies that are not listed on a formal exchange. These securities are traded through a broker-dealer network.<br/><br/>
 
@@ -334,7 +334,7 @@ Paper trading is simulated trading that allows traders to practice on exchanges 
 #### Pattern
 Patterns are the distinctive formations created by the movements of security prices on a chart. These patterns are often used by traders to anticipate the future direction of a security’s price.<br/><br/>
 #### Pegging
-<br/><br/>
+Tying one asset to another. An example: A dollar peg is when a country maintains its currency's value at a fixed exchange rate to the U.S. dollar.<br/><br/>
 #### Penny stocks
 A penny stock refers to a small company's stock that ussualy trades for less than $5 per share.<br/><br/>
 #### Pension fund
@@ -364,7 +364,7 @@ A put is an options contract that gives the owner the right, but not the obligat
 
 ## Q
 #### Quant
-<br/><br/>
+Relates to quantitative traders. Derived from the word quantitative, a quant is a person/trader who possesses strong quantitative, or mathematical, skills and apllies them to trading (strategies).<br/><br/>
 #### Quantitative analysis
 Quantitative analysis (QA) is a technique that aims to understanding behaviour through the use of mathematical and statistical modeling, measurement, and research.<br/><br/>
 #### Quantitative easing
@@ -394,7 +394,7 @@ ROI is a financial metric used to measure and evaluate the efficiency of an inve
 #### Revenge trading
 Revenge trading refers to when a trader attempts to win back losses by entering a risky and often large trade. <br/><br/>
 #### Risk management
-A common definition of investment risk is a deviation from an expected outcome.<br/><br/>
+A common definition of investment risk is a deviation from an expected outcome. Trading and investing involves risk that requires management in order to increase the probability of being profitable.<br/><br/>
 #### Risk reward
 The risk/reward ratio marks the potential reward a trader can earn, for every dollar he or she risks on a trade.<br/><br/>
 #### ROI (return on investment)
@@ -406,7 +406,7 @@ ROI is a financial metric used to measure and evaluate the efficiency of an inve
 The S&P 500 index is a stock index of the United States that, due to its broad composition, provides a reliable picture of developments in the US stock market. 
 The 500 largest US companies by market capitalization are included in this index.<br/><br/>
 #### Scaling in or out
-A scale order consists of multiple limit orders spread over increasing or decreasing prices. At Scaling in, these are decreasing prices so that the trader gets the best price. When scaling out, these are rising prices so that the trader can take advantage of rising prices and thus achieve more profit. A scale order is one that includes multiple orders at different prices in order to avoid the market impact of issuing one large order. It can also be used to get a better average price when entering or leaving a position.<br/><br/>
+A scale order is one that includes multiple orders at different prices in order to avoid the market impact of issuing one large order. It can also be used to get a better average price when entering or leaving a position. We call this 'scaling in' or 'scaling out'.<br/><br/>
 #### Scalp
 Scalping or scalp trading is a trading style or technique in which traders buy and sell an asset within a very short period of time. Scalping is a trading strategy in which traders profit off small price changes for a stock.<br/><br/>
 #### Sector
@@ -426,13 +426,13 @@ A short position in a share means that the share has been sold, without the trad
 #### Short squeeze
 A short squeeze is a rapid increase in the price of a stock or an other asset. The traders who had a short position are then forced to close their position.<br/><br/>
 #### Slippage
-Slippage happens when the price at which your order was executed does not match the expected price.<br/><br/>
+Slippage happens when the price at which your order was executed does not match the expected price, due to price 'slipping away', executing your order higher or lower than expected.<br/><br/>
 #### Social trading
 Social trading is a form of investing that allows investors to observe the trading behavior of someone else and to follow their investment strategies using copy trading or mirror trading.<br/><br/>
 #### Solvency
 Solvency is the ability of a company to meet its long-term debts and financial obligations.<br/><br/>
 #### Speculation
-Speculation involves trading a financial asset involving high risk, in expectation of significant returns. The motive is to take maximum advantage from fluctuations in the market.<br/><br/>
+Speculation involves trading a financial asset involving high risk, in expectation of significant returns. The motive is to take maximum advantage from fluctuations in the market. In a more general sense: to specualte means to observe. So specualtors can also be seen as observers.<br/><br/>
 #### Spoofing
 Spoofing is an illegal form of market manipulation in which a trader places a large order to buy or sell a financial asset with no intention of executing. By doing so, the trader—or "the spoofer"—creates an artificial impression of high demand for the asset.<br/><br/>
 #### Spot
@@ -440,7 +440,7 @@ A spot trade refers to the purchase or sale financial asset for instant delivery
 #### Spread
 Spread is the difference between two prices usually in trading this is referred to the bid and ask price of an financial asset.<br/><br/>
 #### Stock
-A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own.<br/><br/>
+A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation.<br/><br/>
 #### Stock market
 The Stock market refers to the collection of markets and exchanges where shares of public listed companies are traded.<br/><br/>
 #### Stock split
@@ -448,17 +448,17 @@ A stock split increases the number of shares in a company. So, if a company had 
 #### Stock symbol
 A stock symbol is an abbreviation used to uniquely identify publicly traded shares of a particular stock. Stock symbols are also known as "ticker symbols".<br/><br/>
 #### Stop limit
-A stop-limit order is a conditional trade that combines the features of stop with those of a limit order and is used to control risk.<br/><br/>
+A stop-limit order is a conditional trade that combines the features of stop with those of a limit order and is used to control risk. A stop-limit executes a buy/sell order at a predetermined price by a trader, resulting in the limiting of your losses. A stop-limit is thus a type of stop loss.<br/><br/>
 #### Stop loss
 A stop-loss order is an order placed to buy or sell a security when it reaches a certain price. Stop loss orders are there to limit a trader’s loss on a position.<br/><br/>
 #### Stop market
-<br/><br/>
+Similar to the stop limit, but a market order is used, executing a trade against current prices in the order book. Note that the taker fee is paid for this order. A more expensive stop loss, but often with a higher guarantee of executing.<br/><br/>
 #### Stop run
 Stop run, also known as stop loss hunting, refers to a situation where market participants are pushing the price of a stock to a level where they believe other traders have placed stop orders. Most of the times this is just above or below a support or resistance level.<br/><br/>
 #### Straddle
 A straddle is an options strategy involving the purchase of both a put and call option for the same expiration date and strike price on the same underlying.<br/><br/>
 #### Supply
-Supply is an economic concept that describes the total amount of a specific good or service that is available at the marketplace.<br/><br/>
+Supply is an economic concept that describes the total amount of a specific good or service that is available or is offered at the marketplace.<br/><br/>
 #### Support
 A support level is a certain price level at which the value of an asset repeatedly stops falling and bounces back up.<br/><br/>
 #### Swap
@@ -468,23 +468,23 @@ Swing trading refers to the practice of trying to profit from market swings of a
 
 ## T
 #### Take profit
-Take profit refers to when a trader closes an open position for a profit.<br/><br/>
+Take profit refers to when a trader closes an open position for a profit. This can also be done through a 'Take Profit (TP)' order.<br/><br/>
 #### Taker fee
 Taker fee is paid when an order is executed immediately, which removes liquidity out of the order book. This usually happens when a trader makes a market order.<br/><br/>
 #### Technical analysis
 Technical analysis is a means of examining and predicting price movements in the financial markets, by analyzing statistical trends gathered from trading activity, such as price movement and volume.<br/><br/>
 #### Ticker
-<br/><br/>
+Refers to the stock or asset symbol as registered on exchanges. For example: AAPL.<br/><br/>
 #### Timeframe
 A time frame refers to the amount of time that a trend lasts for in a market, which can be identified and used by traders.<br/><br/>
 #### Trade management
 Trade management refers to everything a trader actively does after a trade is executed to maximize the potential profit and minimize the risk.<br/><br/>
 #### Trading
-<br/><br/>
+The exchanging of hands of assets, or trading one asset or product for another.<br/><br/>
 #### Trading bot
 A trading bot is a software program that interacts directly with exchanges (often using API’s to obtain and interpret relevant information) and places buy or sell orders on your behalf depending on the interpretation of the market data.<br/><br/>
 #### Trailing stop-loss
-A trailing stop is designed to lock in profits or limit losses as a trade moves favorably.<br/><br/>
+A trailing stop is designed to lock in profits or limit losses as a trade moves favorably. Traders can mark a threshol of a certain percentage or certain amount of dollars which will follow current price. SHould price reverse, the trailing stoploss will have moved along with price, ensuring a stop loss closer to the point of price reversal, potentially ensuring a higher amount of profit than a fixed stop loss.<br/><br/>
 #### Trend
 A trend refers to the general direction of a market or an asset's price.<br/><br/>
 #### Trendline
@@ -496,15 +496,13 @@ A turbo is an investment product that allows traders to trade with leverage on v
 #### Underlying asset
 An underlying asset is the security on which a derivative contract is based upon.<br/><br/>
 #### Underwater
-Underwater is the term for an asset or a financial contract worth less than its notional value.<br/><br/>
+Relates to holding a 'losing' position. When in a losing position, the position or trader is considered 'under water'.<br/><br/>
 #### Unicorn
 A unicorn refers to a privately held startup company valued at over $1 billion.<br/><br/>
 #### Uptrend
 An uptrend describes the price movement of a financial asset when the overall direction is upward. <br/><br/>
 
 ## V
-#### Vegapoints
-<br/><br/>
 #### Volatility
 Volatility is a measure of the price fluctuations of an asset or portfolio.<br/><br/>
 #### Volume
