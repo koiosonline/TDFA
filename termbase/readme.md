@@ -205,25 +205,25 @@ Futures are derivative financial contracts that obligate the parties to transact
 #### Gap
 A gap is an area on a chart where the price jumps or falls from the previous day’s close to the opening price of the next day.<br/><br/>
 #### Golden cross
-The golden cross is a candlestick pattern that happens when a relatively short-term moving average crosses above a long-term moving average. Technical analysts see this as bullish sign.<br/><br/>
+The golden cross happens when a short term moving average crosses a longer term moving average to the upside. An often used example is the 50-day moving average crossing the 200-day moving average, signalling price is trending upwards.<br/><br/>
 #### Good till cancelled order
 A good till cancel order is an order that stays active until either it is filled or the investor cancels it.<br/><br/>
 #### Greeks
-Greeks is a term used in the options market to describe the different dimensions of risk involved in taking an options position.<br/><br/>
+Delta, gamma, vega, and theta are known as the "Greeks", and provide a way to measure the sensitivity of an option's price to various factors. Together, the Greeks let you understand the risk exposures related to an option, or book of options.<br/><br/>
 #### Gross Domestic Product (GDP)
 Gross domestic product (GDP) is the total value of everything produced within a country's borders in a specific time period.<br/><br/>
 
 ## H
 #### Hedge
-A hedge is an investment to reduce the risk on another investment.<br/><br/>
+A hedge is an investment or trade that reduces the risk on another current investment or trade. Two positions are often opened simultaneously to balance risk.<br/><br/>
 #### Hedge fund
 A hedge fund is a pooled investment structure that employ different strategies to earn active return for their investors.<br/><br/>
 #### Hidden order
-A hidden order is a trading order which instructs a broker to break up a large order into multiple small segments which are sent to exchanges as individual orders.<br/><br/>
+A hidden order is a trading order not visible in the orderbook.<br/><br/>
 #### High frequency trading (HFT)
 High-frequency trading, is a method of trading that uses powerful software to transact a large number of orders in fractions of a second.<br/><br/>
 #### Hyperinflation
-Hyperinflation is a term to describe fast, extreme, and out-of-control price increases in an economy.<br/><br/>
+Hyperinflation is a term to describe fast, extreme, and out-of-control price increases in an economy. A rapid devaluation of a currency.<br/><br/>
 
 ## I
 #### Iceberg order
@@ -231,13 +231,13 @@ Iceberg orders are large single orders that have been divided into smaller limit
 #### ICO
 An Initial Coin Offering (ICO) is the cryptocurrency industry’s equivalent to an Initial Public Offering (IPO). An ICO is a fundraising mechanism in which new projects sell their underlying crypto tokens.<br/><br/>
 #### In the money
-"In the money" is an expression that refers to an option that possesses intrinsic value.<br/><br/>
+A call option is 'in the money' (ITM) if the market price is above the strike price.<br/><br/>
 #### Indicator
 Indicators in finance are statistics used to measure current conditions as well as to forecast financial or economic trends.<br/><br/>
 #### Indices
-Indices are a measure of a section of shares in the stock market.<br/><br/>
+Indices, or indexes, are a measure of a section of shares in the stock market.<br/><br/>
 #### Inflation
-Inflation is a sustained increase in the general price level of goods and services in an economy over a period of time.<br/><br/>
+Inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. Think of 1$ not having the same purchasing power in 10 years time as it has today.<br/><br/>
 #### Insider trading
 Insider trading is an illegal form of trading in which somebody trades a stock of a public company and has non-public information on that stock.<br/><br/>
 #### International Monetary Fund (IMF)
@@ -258,37 +258,37 @@ The Know Your Client or Know Your Customer is a standard in financial services t
 #### Lagging indicator
 A lagging indicator is any measurable or observable variable that moves or changes direction after an event has happened. Lagging indicators confirm trends and changes in trends.<br/><br/>
 #### Leverage
-Leverage in finance refers to the use of debt to amplify returns from an investment or project.<br/><br/>
+Leverage in finance refers to the use of debt to amplify returns from an investment or project. Leverage allows you to open a position using less of your own capital.<br/><br/>
 #### Limit order
-A limit order is a type of order to purchase or sell a security at a specified price or better.<br/><br/>
+A limit order is a type of order to purchase or sell a security at a specified price. The order will generally be placed in the orderbook, waiting to be filled.<br/><br/>
 #### Liquidation
-Liquidation in finance is the process of closing a business and distributing its assets to claimants.<br/><br/>
+Liquidation in finance is the process of closing a business and distributing its assets to claimants. In trading, we speak of a trader's position or entire account being liquidated, or closed due to there not being any more funds to keep the position open.<br/><br/>
 #### Liquidity
-Liquidity in finance refers to how easily assets can be converted to cash.<br/><br/>
+Liquidity in finance refers to how easily assets can be converted to cash. in trading, it allows for the smooth operation of buying and selling assets without big spreads or empty orderbooks.<br/><br/>
 #### Loan
 A loan is the lending of money from one party to another party<br/><br/>
 #### Long
-A long position—also known as long—is the buying of a financial instrument with the expectation that the price will rise in the near future.<br/><br/>
+A long position, also known as 'being long', is the buying of a financial instrument with the expectation that the price will rise in the near future.<br/><br/>
 
 ## M
 #### Macroeconomics
 Macroeconomics is a branch of economics dealing with the performance, structure, behaviour, and decision-making of an economy as a whole.<br/><br/>
 #### Maker fee
-Maker fee is paid when an order is not immediately executed, which adds liquidity to the orderbook.<br/><br/>
+The fee you pay for a trade that is executed after you placed an order in the orderbook. Think of limit orders. By placing an limit order in the orderbook, you provide liquidity. Often you pay a lower fee than the 'taker fee' or even get a rebate. The taker fee is paid when you execute an order instantaneously, filling the 'maker's' bids.<br/><br/>
 #### Margin
 Margin is the money borrowed from a brokerage firm to purchase an investment. It is the difference between the total value of securities held in an investor's account and the loan amount from the broker.<br/><br/>
 #### Margin call
 A margin call occurs when the value of an investor's margin account falls below the broker's required amount.  An investor will need to sell positions or deposit funds or securities to meet the margin call.<br/><br/>
 #### Market capitalisation
-Market capitalization, commonly called market cap, is the market value of a publicly traded company's outstanding shares.<br/><br/>
+Market capitalization, commonly called market cap, is the market value of a publicly traded company's outstanding shares. It is calculated by multiplying the total amount of shares by the current price.<br/><br/>
 #### Market cycle
 Market cycles, also known as stock market cycles, is a wide term referring to trends or patterns that emerge during different markets or business environments.<br/><br/>
 #### Market maker
-A market maker is a player in the market that buys and / or sells large quantities of a particular asset in order to promote liquidity, thereby ensuring smooth trading on the financial markets.<br/><br/>
+A market maker is a player in the market that buys and / or sells large quantities of a particular asset in order to create and provide liquidity, thereby ensuring smooth trading in financial markets.<br/><br/>
 #### Market order
-A market order is a request to buy or sell a security immediately. This type of order guarantees that the order will be executed, but does not guarantee the execution price.<br/><br/>
+A market order is a request to buy or sell a security immediately. This type of order guarantees that the order will be executed, but does not guarantee the execution price. For this trade, you generally pay a 'taker fee'.<br/><br/>
 #### Market structure
-<br/><br/>
+Also called 'market state' or 'state of the market'. Looking at a price chart, using support and resistance and various other tools, one can identify the current state of the market or a market structure. Identifying market structure helps with creating points of reference and ultimatly identifying trend direction or price action that will occur in the future. A sign to look out for is the 'breaking' of market structure, invalidating prior analysis.<br/><br/>
 #### Merger
 A merger is an agreement that unites two existing companies into one new company.<br/><br/>
 #### Momentum
@@ -302,7 +302,7 @@ Net worth is the value of the assets a person or corporation owns, minus the val
 #### New York Stock Exchange (NYSE)
 The New York Stock Exchange is the world’s largest securities exchange, based on the total market capitalization of its listed securities.<br/><br/>
 #### Non-directional
-<br/><br/>
+Without direction.<br/><br/>
 #### Non-disclosure agreement
 A non-disclosure agreement is a legally binding contract that establishes a confidential relationship. The party or parties signing the agreement agree that sensitive information they may obtain will not be made available to any others.<br/><br/>
 #### NYSE
@@ -314,11 +314,11 @@ An offset in trading involves assuming an opposite position in relation to an or
 #### One triggers other order (OTO)
 The term One-Triggers-the-Other refers to instructions sent to a broker that consist of a primary order and a secondary order, which becomes active only if the primary order is executed.<br/><br/>
 #### Open
-<br/><br/>
+Often called 'market open' or time that the markets open.<br/><br/>
 #### Option
 An options is a financial derivative that give buyers the right, but not the obligation, to buy or sell an underlying asset at an agreed-upon price and date.<br/><br/>
 #### Order
-An order is an instructions to a broker to buy or sell a security on behalf of the trader.<br/><br/>
+An order is an instructions to a broker or exchange to buy or sell a security on behalf of the trader.<br/><br/>
 #### Oscillator
 An oscillator is a technical analysis tool that constructs high- and low- bands between two extreme values, and then builds a trend indicator that fluctuates within these bounds. <br/><br/>
 #### OTC (over the counter)
