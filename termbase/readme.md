@@ -55,6 +55,8 @@ Beta measures the volatility of an investment. It is an indication of its relati
 The price buyers are willing to pay for an asset. Bids can usually be found on the 'buy-side' in orderbooks.<br/><br/>
 #### Blue chip stocks
 Big companies that are considered well performing and household names with a market cap of over $1B. Usually considered good investments in the stock market. For example: Apple and Amazon.<br/><br/>
+#### Blockchain Technology
+A blockchain,originally block chain, is a growing list of records, called blocks, that are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. Blockchain Technology is consideren 'distributed leger technology'. <br/><br/>
 #### Bond
 Bonds are a 'fixed income instrument'issued by governments and coorporations when they want to raise money. By buying a bond, you lend the issuer of the bond money which will be paid back on a predetermined date. During the period of issuance and paying back, an interest is paid to the buyer of the bond. Unlike stocks, bonds don't give you ownership rights.<br/><br/>
 #### Broker
